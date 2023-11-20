@@ -28,7 +28,7 @@ Este conjunto de dados contém informações sobre cerca de 5000 músicas proven
 | tempo                     | double    | Estimativa geral do tempo de uma música em batidas por minuto (BPM).                                                                    |
 
 
-Os dados estão disponíveis no arquivo `spotify_songs.csv` e consistem nos seguintes campos:
+Os dados estão disponíveis no arquivo `spotify_songs.parquet` e consistem nos seguintes campos:
 
 ## Dicionário de Dados
 
